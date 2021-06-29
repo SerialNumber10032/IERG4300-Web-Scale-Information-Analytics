@@ -8,7 +8,8 @@
 
 ## About this course
 - Required course for `Big Data: Systems and Applications` Stream
-- IERG4300 Official Website: http://mobitec.ie.cuhk.edu.hk/ierg4300Fall2020/
+- IERG4300 Official Website:   
+http://mobitec.ie.cuhk.edu.hk/ierg4300Fall2020/
 - Teaching content:    
     - Parallel Programing framework `Apache Hadoop` architecture
     - Hands on assignment to write `MapReduce` programe to analysis the dataset 
@@ -25,10 +26,7 @@
 - You should be familiar with `Python` or `Java`, also the `Linux Command Line Environment`  
 If not, you need to study them ASAP. 
 - Have some Linear Algebra and Calculus background
-- You can look at other comments (Chinese only) about this course:: https://cuhk-course.blogspot.com/2019/07/ierg-4300web-scale-info-analytics.html
+- You can look at other comments (Chinese only) about this course:  
+https://cuhk-course.blogspot.com/2019/07/ierg-4300web-scale-info-analytics.html
 - **Be patient**
 - Remember, **Google is your best friend.** 
-
-    
-
-
